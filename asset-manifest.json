@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LocalArts/static/css/main.3d4c512b.css",
-    "main.js": "/LocalArts/static/js/main.05f83aa8.js",
+    "main.js": "/LocalArts/static/js/main.3065957d.js",
     "static/media/logo.png": "/LocalArts/static/media/logo.15c57734497caf05c2a0.png",
     "index.html": "/LocalArts/index.html",
     "main.3d4c512b.css.map": "/LocalArts/static/css/main.3d4c512b.css.map",
-    "main.05f83aa8.js.map": "/LocalArts/static/js/main.05f83aa8.js.map"
+    "main.3065957d.js.map": "/LocalArts/static/js/main.3065957d.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4c512b.css",
-    "static/js/main.05f83aa8.js"
+    "static/js/main.3065957d.js"
   ]
 }
